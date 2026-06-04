@@ -3,4 +3,4 @@ black
 isort
 pandas
 scikit-learn
-mlflow
+mlflow<3
